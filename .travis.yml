@@ -1,9 +1,9 @@
 language: python
 python:
   - "3.6"
-# https://docs.travis-ci.com/
-# https://travis-ci.org/
-# command to run tests
+#https://docs.travis-ci.com/
+#https://travis-ci.org/
+#command to run tests
 script:
   - py.test teste.py
 after script:
