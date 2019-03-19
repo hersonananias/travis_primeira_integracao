@@ -5,7 +5,7 @@ python:
 # https://travis-ci.org/
 # command to run tests
 script:
-  -py.test teste.py
+  - py.test teste.py
 after script:
 notifications:
   recipientes:

@@ -1,4 +1,4 @@
-import pytest
+import py.test
 from principal import somar
 from principal import subtrair
 def test_somar():
